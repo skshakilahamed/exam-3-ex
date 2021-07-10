@@ -1,0 +1,273 @@
+@media (max-width:992px) {
+    .carouselSlide {
+        height: 21vh;
+    } 
+    .carouselItem img {
+        height: 21vh;
+    }
+    .carouselCaption {
+        position: absolute;
+        top: 4%;
+    }
+    .catagoriboxes {
+        top: -91px;
+    }
+    .catagoriboxes {
+        top: -160px;
+    }
+    .carouselItem {
+        height: 26vh !important;
+    }
+    .b-l-img {
+        top: -76px;
+    }
+    .catagoriboxes {
+        top: -180px;
+    }
+    .carouselItem {
+        height: 44vh;
+    }
+    .catagoriIcon span {
+        font-size: 35px;
+        height: 65px;
+        width: 65px;
+        line-height: 65px;
+    }
+    .catagoriIcon span small {
+        right: 61px;
+    }
+    .catagoriBox h4 {
+        margin-top: 14px;
+        font-size: 17px;
+    }
+    .catagoriBox p {
+        font-size: 15px;
+    }
+    .aboutContent h1 {
+        padding: 5px 0;
+        font-size: 25px;
+    }
+    .aboutContent p {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    .aboutContent ul li {
+        padding: 2px 0;
+        font-size: 16px;
+
+    }
+    .aboutImages {
+        top: 9%;
+    }
+    .abouts {
+        margin-top: -100px;
+    }
+    .serviceContent h3 {
+        font-size: 19px;
+    }
+    .serviceContent p {
+        font-size: 14px;
+        padding: 0px 0;
+
+    }
+    .nthchild1 {
+        margin-bottom: 60px !important;
+    }
+    .servicchild {
+        padding: 15px;
+    }
+    .serviceIco span {
+        font-size: 34px;
+    }
+    .newsContent h3 {
+        font-size: 24px;
+    }
+    .projectContent h3 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .projectContent {
+        padding: 10px;
+    }
+    .project {
+        padding: 50px 0;
+    }
+    .choosusContent h1 {
+        font-size: 30px;
+    }
+    .teammemberDetail h3 {
+        font-size: 22px;
+        padding-top: 10px;
+    }
+    .mainDropdown {
+        left: 100px;
+    }
+    .menu-bar {
+        display: none !important;
+    }
+}
+@media (max-width: 768px) {
+    
+    a.banner-btn {
+        padding: 12px 17px;
+    }
+    .carouselCaption {
+        top: 21%;
+    }
+    .carouselSlide {
+        height: 35vh;
+    }
+    .b-l-img {
+        top: -59px;
+    }
+    .nthchild1 {
+        margin-top: -30px;
+        margin-bottom: 57px;
+    }
+    .catagoriIcon span small {
+        right: 127px;
+    }
+    .catagoriIcon span small {
+        width: 10px;
+        height: 10px;
+    }
+    .teammemberDetail h3 {
+        font-size: 18px;
+        padding-top: 10px;
+        font-weight: 500;
+    }
+   
+    .carouselCaption h1 {
+        font-size: 45px;
+    }
+    .carouselSlide {
+        height: 21vh;
+    }
+    .abouts {
+        margin-top: -90px;
+    }
+    .catagoriboxes {
+        top: -119px;
+    }
+    .aboutContent p {
+        font-size: 14px;
+    }
+    .aboutContent .p2 {
+        margin-bottom: 3px;
+    }
+    .aboutContent ul li {
+        font-size: 15px;
+    }
+    .aboutContent ul li span {
+        margin-right: 11px;
+        position: relative;
+        top: 13%;
+    }
+    .serviceHead {
+        padding-top: 20px;
+    }
+    .servicchild {
+        padding: 9px;
+    }
+    .choosusContent h1 {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    .choosusContent span {
+        padding: 10px 0;
+    }
+    .choosDescription h4 {
+        font-size: 21px;
+    }
+    .choosIcon span i {
+        top: -36%;
+    }
+    .choosDescription p {
+        color: #333;
+        font-size: 15px;
+    }
+    .choosusImage {
+        top: 26% !important;
+    }
+    .newslatters {
+        padding: 45px 0;
+    }
+    footer{
+        padding: 62px 0;
+    }
+    .aboutContent {
+        margin-top: 119px;
+    }
+}
+@media (max-width:576px) {
+    .carouselSlide {
+        height: 25vh;
+    }
+    .b-l-img {
+        top: -44px;
+    }
+    .nthchild1 {
+        margin-top: 70px;
+        margin-bottom: 57px;
+    }
+    .catagoriIcon span small {
+        right: 217px;
+    }
+    .aboutContent {
+        margin-top: 109px;
+    }
+    .choosusImage {
+        top: 0% !important;
+    }
+    .servicchild {
+        padding: 9px;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .projectContent {
+        text-align: center;
+    }
+    .teamBox {
+        margin-bottom: 30px !important;
+    }
+    .skill-items {
+        padding: 0;
+        background-blend-mode: color;
+    }
+    .testimonial-section {
+        padding: 20px 0;
+    }
+    .testimonial-item {
+        padding: 0 30px 0px 30px;
+    }
+    .cmLogo {
+        margin-bottom: 30px;
+    }
+    .cmLogo {
+        text-align: center;
+    }
+    .contact-form {
+        padding: 20px 25px;
+        margin-top: 40px !important;
+    }
+    .teamMembar {
+        width: 69%;
+        margin: auto;
+    }
+    .footerSocial {
+        text-align: center;
+    }
+    .footerText {
+        text-align: center;
+    }
+    h5.footerHeading::after {
+        top: 26px;
+        left: 41%;
+    }
+    /* h5.footerHeading::after {
+        content: "";
+        top: 31px;
+        left: 41%;
+    } */
+}
